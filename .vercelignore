@@ -1,0 +1,15 @@
+node_modules
+.git
+*.md
+src
+public
+*.config.*
+*.json
+!vercel.json
+!package.json
+!tailwind.config.js
+!postcss.config.js
+!tsconfig.json
+!tsconfig.node.json
+!vite.config.ts
+README.md
